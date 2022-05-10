@@ -1,5 +1,5 @@
 # Coronavirus-Tracker-Project
-Short coronavirus tracker made with Spring, which showd the total cases and daily new cases globally and per country.
+Short coronavirus tracker made with Spring, which shows the total cases and daily new cases globally and per country. It refreshes the data daily.
 
 This is my first project, making it while studying in uni. A good starting project to kind of see a product go from start to finish.
 
